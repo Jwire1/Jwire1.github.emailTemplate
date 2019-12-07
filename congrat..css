@@ -1,0 +1,39 @@
+body{
+	font-family: sans-serif;
+}
+div{
+	width: 500px;
+	height: 590px;
+	background-color: #767676;
+	position: absolute;
+	border-radius: 5px;
+}
+.class-1{
+	width: 480px;
+	height: 570px;
+	margin: 10px;
+	position: relative;
+	background-color: #14c7d6;
+}
+.class-2{
+	width: 460px;
+	height: 70px;
+	margin: 10px;
+	position: absolute;
+	background-color: #d32a2a;
+
+}
+.p-class{
+	color: #fff;
+	font-size: 22pt;
+text-align: center;
+margin: 20px;
+}
+
+.class-3{
+	width: 460px;
+	height: auto;
+	float: right;
+	margin: 88px 10px 10px 10px;
+	position: absolute;
+}
